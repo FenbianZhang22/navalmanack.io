@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>2022/1/19</title>
+</head>
+<body>
+<h3><b>纳瓦尔宝典读书笔记1</b></h3>
+<hr>
+<p>1. 在CentOS7下面，用tar -zcf备份文件夹，产生报错“读入文件时文件发生了变化”，改用tar -zvcf显示具体每个文件的备份过程，就没有报错。</p>
+<a href="https://linux.vbird.org/linux_basic/centos7/0240tarcompress.php#gzip">解决方案</a>
+<p>2. 不要把时间浪费在beta炮的狗屁工作上，靠跪舔、足够安全、耗时间来搞定客户，虽然大部分客户能靠β炮搞定，但是少数高价值有护城河的客户要靠alpha搞定</p>
+<p>饥饿营销是α策略</p>
+</body>
+</html>
